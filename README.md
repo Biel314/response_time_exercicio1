@@ -11,4 +11,7 @@ Este projeto Java implementa um teste para medir o tempo de percurso em vetores 
 
 Todos os vetores são preenchidos com valor 0 e o tempo de percurso é medido em segundos.
 
-<img src="">
+## Em execução
+
+<img width="663" height="106" alt="image" src="https://github.com/user-attachments/assets/0e5fb5ac-1b1c-48da-9ffb-7828a58fd651" />
+">
